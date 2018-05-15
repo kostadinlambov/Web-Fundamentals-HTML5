@@ -1,0 +1,11 @@
+p {
+    text-align: center;
+}
+
+.my-list {
+    background: #f7f381;
+    width: 500px;
+    padding: 20px;
+    margin: 20px;
+    margin: auto;
+}
